@@ -1,22 +1,23 @@
 theme: jekyll-theme-minimal
 title: Il mio Portfolio
-logo: /fotoCVLucaGalli.png
 description: |
-  <h1 align="center">Hi 👋, I'm Luca Galli</h1>
+  <h2 align="center">Hi 👋, I'm Luca Galli</h1>
   <h3 align="center">A passionate Data Scientist and Computer Scientist</h3>
   
   <br>
   
-  - 🍕 I was born in May 2000, near Milan (Italy)
-  - 📑 Level C1 English (Cambridge Certificate)
-  - 🎓 I have a Bachelor's Degree in Computer Science
-  - 🌱 I have a Master's Degree in Data Science
-  - 👉 You can check out some of my projects [here](https://github.com/LucaGalliProjects/university-projects)
-  - 📫 You can contact me on my email for any need!
-  
-  
-  
-  
+  🍕 I was born in May 2000, near Milan (Italy)
+  <br>
+  ⚙️ I work as a Data Scientist for BID Company
+  <br>
+  🌱 I have a Master's Degree in Data Science
+  <br>
+  🎓 I have a Bachelor's Degree in Computer Science
+  <br>
+  📑 Level C1 English (Cambridge Certificate)
+  <br>
+
+
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/luca-ga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca-ga" height="30" width="40" /></a>
