@@ -1,14 +1,13 @@
 theme: jekyll-theme-minimal
 title: Il mio Portfolio
-description: "Hi 👋, I'm Luca Galli
-A passionate Data Scientist and Computer Scientist
-
-<br>
-
-- 🍕 I was born in May 2000, near Milan (Italy)
-- 📑 Level C1 English (Cambridge Certificate)
-- 🎓 I have a Bachelor's Degree in Computer Science
-- 🌱 I have a Master's Degree in Data Science
-- 👉 You can check out some of my University Projects on this website
-- 📫 You can contact me on my email for any need!"
-logo: https://github.com/LucaGalliProjects/LucaGalliProjects.github.io/blob/main/fotoCVLucaGalli.png
+logo: /fotoCVLucaGalli.png
+description: |
+  A passionate Data Scientist and Computer Scientist 🍕 Milano (Italy).
+  <br><br>
+  <strong>Connect:</strong><br>
+  <a href="https://linkedin.com/in/luca-ga"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"></a>
+  <br><br>
+  <strong>Top Skills:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="25">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25">
